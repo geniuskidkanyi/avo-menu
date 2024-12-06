@@ -1,4 +1,6 @@
 require "zeitwerk"
+require 'ostruct'
+
 require "avo"
 require "avo/menu/version"
 require "avo/menu/engine" if defined?(Rails)
